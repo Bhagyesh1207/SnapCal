@@ -127,18 +127,6 @@ SnapCal integrates with the Nutrition API by API Ninjas to fetch detailed nutrit
 - Cholesterol
 - Vitamins and minerals
 
-## 📸 Screenshots
-
-<p align="center">
-  <em>Login Screen</em>
-  <img src="Images/LoginPage.png" alt="Login Screen">
-</p>
-
-<p align="center">
-  <em>Prediction Results and Nutriton Information</em>
-  <img src="Images/NutritionFact.png" alt="Prediction Results">
-</p>
-
 ## 🚀 Future Enhancements
 
 - User history and meal tracking
